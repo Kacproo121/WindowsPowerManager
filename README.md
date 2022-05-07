@@ -1,5 +1,5 @@
 # Windows Power Manager
-Allows to do some unintended stuff in Windows 10 (other versions will be soon).
+Allows you to do some unintended stuff in Windows 10 (other versions will be soon).
 For example you can easly enable/disable sethc.exe or other exploits with usage of this program.
 
 # Download
